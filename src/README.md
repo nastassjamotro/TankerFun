@@ -2,8 +2,5 @@
 ## You shall find nothing helpful in this section!
 ## Go read the initial README at the "home" page of this repository. There you shall find out more about this most wondrous program. It's not that hard. Only one mouse click away. Go do that if you're confused...even though upon opening and running the application, everything looks self-explanatory.
 
-### Here's how it should look like upon running!
-![alt text](https://github.com/nastassjamotro/TankerFun/blob/master/TankerPic.png "Logo Title Text 1")
-
 
 #### - Your humble coder, Nastassja Motro
