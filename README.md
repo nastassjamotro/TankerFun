@@ -8,7 +8,8 @@
 - After putting those two numbers in and hitting the "calculate" button, at the bottom of the screen it will give you the approximate amount of _**how many 11,000 gallon tankers**_ you'll drink in the estimated lifespan that you've provided
 
 ### Here's how it should look like upon running!
-![alt text](https://github.com/nastassjamotro/TankerFun/blob/master/TankerPic.png "Logo Title Text 1")
+![Tanker App](https://github.com/nastassjamotro/TankerFun/blob/master/TankerPic.png "Logo Title Text 1")
+
 
 ### Have Fun with this pretty boring application! :)
 
